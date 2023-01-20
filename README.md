@@ -9,6 +9,9 @@ Bei Fragen, Problemen, Wünsche zur App und weiteres, bitte hier ein [Ticker öf
 Im Wiki gibt es noch weitere Erklärungen zur App: [Wiki](https://github.com/andre0707/gcffmEventapp/wiki)
 
 
+GitHub Projekt zur Android Version: [GitHub Android](https://github.com/accessburn/GcffmApp)
+
+
 ## Beschreibung
 
 Einfach kein Geocaching-Event mehr verpassen!
