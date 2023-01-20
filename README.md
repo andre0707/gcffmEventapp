@@ -1,7 +1,5 @@
 # gcffmEventapp
 
-Geocaching iOS App zur Anzeige von Events
-
 Die App kann im Apple AppStore heruntergeladen werden: [Download im AppStore](https://apps.apple.com/de/app/gcffm-eventapp/id1449297839)
 
 Bei Fragen, Problemen, Wünsche zur App und weiteres, bitte hier ein [Ticker öffnen](https://github.com/andre0707/gcffmEventapp/issues)
@@ -10,6 +8,8 @@ Im Wiki gibt es noch weitere Erklärungen zur App: [Wiki](https://github.com/and
 
 
 GitHub Projekt zur Android Version: [GitHub Android](https://github.com/accessburn/GcffmApp)
+
+
 
 
 ## Beschreibung
@@ -32,4 +32,4 @@ Durchsuche und filtere deine Eventliste um das zu finden, was du gerade suchst.
 
 Eine Kartendarstellung dient als einfache Übersicht über alle Events.
 
-Die App wurde in Zusammenarbeit mit Geocaching Frankfurt (gcffm) erstellt.
+Die App wurde in Zusammenarbeit mit [Geocaching Frankfurt (gcffm)](https://gcffm.de) erstellt.
