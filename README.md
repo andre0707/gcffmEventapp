@@ -4,7 +4,7 @@ Die App kann im Apple AppStore heruntergeladen werden: [Download im AppStore](ht
 
 Bei Fragen, Problemen, Wünsche zur App und weiteres, bitte hier ein [Ticker öffnen](https://github.com/andre0707/gcffmEventapp/issues)
 
-Im Wiki gibt es noch weitere Erklärungen zur App: [Wiki](https://github.com/andre0707/gcffmEventapp/wiki)
+Im Wiki gibt es noch weitere Erklärungen zur App: [Wiki](https://github.com/andre0707/gcffmEventapp/wiki/gcffm-Eventapp)
 
 
 GitHub Projekt zur Android Version: [GitHub Android](https://github.com/accessburn/GcffmApp)
